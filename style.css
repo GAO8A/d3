@@ -1,0 +1,13 @@
+.highlight{
+	color: blue;
+	weight: 600;
+}
+
+.item{
+	padding-left: 30px;
+
+}
+
+.bigger{
+	font-size: 5em;
+}
